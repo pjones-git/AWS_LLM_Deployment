@@ -14,6 +14,8 @@ The solution processes medical reports and generates structured JSON summaries c
 
 ## Technical Architecture
 
+<img width="850" height="452" alt="Screenshot 2025-10-29 at 9 21 50 PM" src="https://github.com/user-attachments/assets/265841f6-bb98-40a9-b32c-3d0811e65f3f" />
+
 ### Infrastructure
 - **Cloud Provider:** Amazon Web Services (AWS)
 - **Compute:** EC2 Instance (M7i-flex.large recommended for cost, c4.4xlarge for performance)
